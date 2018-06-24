@@ -4,20 +4,20 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+June 24, 2018
 
 ### Student Name:  
-(First and Last Name)
+Lauren Healy
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+The goal of this assignment is to further advance our javascript knowledge by utilizing control statements, functions, and arrays.
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Switch statements consist of 3 main components. Case labels, which represent a specific value, default labels, which execute when the value returned by the switch statement expression does not match a case label and break statements, which dnds the execution of a switch statement.  
+2. Loop statements control flow statement repeatedly, executing a statement or series of statements which result in repeating code. There are 3 types - while statements, do/while statementd, and for statements.
+3. Global variables are declared outside a function and available to all parts of code. Local variables are declared inside a function and only exist within that specific function.
 
