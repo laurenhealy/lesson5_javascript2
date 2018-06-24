@@ -13,8 +13,7 @@ Lauren Healy
 The goal of this assignment is to further advance our javascript knowledge by utilizing control statements, functions, and arrays.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://laurenhealy.github.io/lesson5_javascript2/ 
 
 ### Lessons Learned in the Assignment:
 1. Switch statements consist of 3 main components. Case labels, which represent a specific value, default labels, which execute when the value returned by the switch statement expression does not match a case label and break statements, which dnds the execution of a switch statement.  
